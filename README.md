@@ -1,5 +1,6 @@
 # Android School Supplies Details Store
 - Project **Build a Single Screen App** of Android Basics Nanodegree
+- [Android Basics Nanodegree at Udacity.com](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803).
 - This app shows details of a fictional school supplies store
 
 # Screenshot
