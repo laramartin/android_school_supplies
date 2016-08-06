@@ -18,7 +18,7 @@
         android:id="@+id/description"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Find all the supplies you need for school. Funny designs and millions of colors."
+        android:text="@string/description"
         android:textStyle="italic"
         style="@style/margin" />
 
@@ -27,7 +27,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="16dp"
-        android:text="Red Paper"
+        android:text="@string/company_name"
         style="@style/title"/>
 
     <RelativeLayout
@@ -48,7 +48,7 @@
             android:layout_alignBottom="@+id/ic_schedule"
             android:layout_toRightOf="@+id/ic_schedule"
             android:layout_toEndOf="@+id/ic_schedule"
-            android:text="Mo-Sa 9-20h"/>
+            android:text="@string/open_hours"/>
 
     </RelativeLayout>
 
@@ -70,7 +70,7 @@
             android:layout_alignBottom="@+id/ic_map"
             android:layout_toRightOf="@+id/ic_map"
             android:layout_toEndOf="@+id/ic_map"
-            android:text="608 Lollipop Lane, 90028 Happyland"/>
+            android:text="@string/address"/>
 
     </RelativeLayout>
 
@@ -92,7 +92,7 @@
             android:layout_alignBottom="@+id/ic_phone"
             android:layout_toRightOf="@+id/ic_phone"
             android:layout_toEndOf="@+id/ic_phone"
-            android:text="+1 200-000-0000"/>
+            android:text="@string/phone"/>
 
     </RelativeLayout>
 

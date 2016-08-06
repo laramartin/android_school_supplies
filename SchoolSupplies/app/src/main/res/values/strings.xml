@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Red Paper</string>
+    <string name="company_name">Red Paper</string>
+    <string name="open_hours">Mo-Sa 9-20h</string>
+    <string name="address">608 Lollipop Lane, 90028 Happyland</string>
+    <string name="phone">+1 200-000-0000</string>
+    <string name="description">Find all the supplies you need for school. Funny designs and millions of colors.</string>
 </resources>
